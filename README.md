@@ -1,0 +1,1 @@
+# FastAPI + Svelte Template
